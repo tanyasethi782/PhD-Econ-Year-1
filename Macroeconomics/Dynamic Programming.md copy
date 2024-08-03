@@ -1,0 +1,11 @@
+
+
+ 
+Dynamic Programming  | ![[02_Dynamic Programming.pdf]]
+
+Contraction Mapping Theorem; Blackwell Theorem | ![[Note Oct 10, 2023.pdf]]
+
+principle of optimality: 1)  Conditions / assumptions 2) statement of the principle. 
+
+When solution from recursive formulation equate that from the sequential problem. We want to solve the sequential problem and recursive formulation is a tool. This principle proves that it is the right tool. Tip: contrast this with contraction mapping theorem. (I believe these assumptions are an easier way to establish the equivalency. ) 
+| ![[Note Oct 10, 2023.pdf]]

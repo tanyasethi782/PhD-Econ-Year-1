@@ -1,0 +1,3 @@
+# Bivariate Distributions 
+
+* Joint Distribution 

@@ -1,0 +1,3 @@
+
+	A set is closed if it includes all its limit points. A limit point of a set is a point that can be approached arbitrarily closely by points within the set. In simpler terms, if you can think of a point as being on the edge of a set, and if this edge point is included in the set itself, then the set is closed.
+	 In consumer theory, if you have a lower contour set of a bundle of goods, and this set is closed, it means that not only does it contain all the bundles that are at least as good as your reference bundle, but it also includes those bundles that are just on the edge of being as good as the reference bundle. These edge cases are crucial for ensuring continuity and completeness in preference relations, which are key concepts in consumer choice theory.
